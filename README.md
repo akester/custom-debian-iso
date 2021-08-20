@@ -1,7 +1,6 @@
-# Storehouse Debian Image
+# Custom Debian Image
 
-This is a remastered Debian ISO image used to provide a default installation
-base for Storehouse services.
+This is an example of a custom, fully-automated Debian installation ISO.
 
 ## Building This ISO
 
