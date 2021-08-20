@@ -1,6 +1,7 @@
 # Custom Debian Image
 
-This is an example of a custom, fully-automated Debian installation ISO.
+This is an example of a custom, fully-automated Debian installation ISO.  More
+details are on my [blog post](https://aikester.com/2021/custom-debian-iso/).
 
 ## Building This ISO
 
